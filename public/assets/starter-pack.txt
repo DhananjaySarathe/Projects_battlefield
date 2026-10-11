@@ -1,0 +1,12 @@
+Battlefield demo — Product starter guide
+
+This is a sample downloadable resource. All seeded products, reviews, votes,
+and trial offers in the local demo are fictional examples.
+
+1. Explore the product’s overview.
+2. Claim the sample trial to see the redemption flow.
+3. Try the interactive product preview.
+4. Leave a review, comment, or reproducible bug report.
+5. Upload a resource when launching your own product.
+
+Makers can replace this file with their own documentation or starter pack.
